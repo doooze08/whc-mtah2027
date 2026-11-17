@@ -1,0 +1,23 @@
+# Submitted parameters for algorithms/dead_ball_aware (WHC final submission).
+# Identical, item by item, to the development config 20261117_a2_moving_reappearance.
+ball_radius_m: 0.11
+control_radius_m: 1.3
+relative_speed_m_s: 3.0
+confirm_s: 0.32
+gap_s: 5.0
+slow_speed_m_s: 3.0
+release_speed_m_s: 4.0
+release_gain_m_s: 1.5
+release_rise_s: 0.12
+separation_s: 0.12
+separation_m: 0.3
+actor_margin_m: 0.3
+restart_flight_s: 5.0
+release_merge_s: 0.24
+tag_margin_s: 2.0
+tagged_slow_s: 6.0
+gap_release_grace_s: 0.12
+visible_grace_s: 3.0
+trusted_tags: true
+trusted_tag_min_slow_s: 0.5
+end_gap_on_moving_ball: true
